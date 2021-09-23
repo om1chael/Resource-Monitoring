@@ -29,29 +29,26 @@ Scale out would be to spread the workload over mutiple machines, as shown in the
 - Network Monitoring:
 Network monitoring is constantly using systems to monitor a computer network for slow or failing components. The system is configure such thatit notifies the network administrator in case of outages or other trouble.
 
-
-
 ## Resource Monitoring
+![image](https://help.tableau.com/current/server/en-us/Img/rmt-setup-architecture.png)
 
 Resource Monitoring can provide a comprehensive view of a system under test, to help determining problems. 
 
 
 
-## Application Performance Monitoring (APM)
-The goal of an APM is to  performance monitoring works by: Observing whether your apps are behaving normally.If not, the somone will be alerted. 
 
+## Application Performance Monitoring (APM)
+The goal of an APM is to preform monitoring works by: Observing whether your apps are behaving normally. If not, the somone will be alerted. 
 
 
 
 ## SNS A2A vs  A2P vs  SQS?
-
-### Amazon Simple Notification Service (SNS) is a notification service. It provides a low-cost infrastructure for the mass delivery of infomration via text, email etc.. 
-
-
+## SNS:
+Amazon Simple Notification Service (SNS) is a notification service. It provides a low-cost infrastructure for the mass delivery of infomration via text, email etc.
 
 
 ## A2A
-### This section provides information about using Amazon SNS for application-to-application messaging with subscribers.
+ Application-to-application messaging with subscribers.
 
 
 
